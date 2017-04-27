@@ -1,0 +1,11 @@
+img.logo {
+  position: absolute;
+  top: 0%;
+  left: 78%;
+  width: 460px;
+}
+
+.btn-black {
+  background: rgba(0,0,0,.9);
+  color: #fff;
+}
